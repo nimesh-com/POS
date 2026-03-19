@@ -128,7 +128,7 @@ window.onload=startclock;
 			<li><a href="customer.php"><i class="icon-group icon-2x"></i> Customers</a>                                    </li>
 			<li><a href="supplier.php"><i class="icon-group icon-2x"></i> Suppliers</a>                                    </li>
 			<li><a href="salesreport.php?d1=0&d2=0"><i class="icon-bar-chart icon-2x"></i> Sales Report</a>                </li>
-			<li><a href="sales_inventory.php"><i class="icon-table icon-2x"></i> Product Inventory</a>                </li>
+		              </li>
 				<br><br><br><br><br><br>		
 			<li>
 			 <div class="hero-unit-clock">
